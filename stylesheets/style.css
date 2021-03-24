@@ -9,11 +9,11 @@
 
 /* Varibables */
 :root {
-    --primary-1: hsl(179, 62%, 43%);
-    --primary-2: hsl(71, 73%, 54%);
+    --primary-1: rgb(42, 178, 175);
+    --primary-2: rgb(192, 223, 52);
 
-    --neutral-1: hsl(204, 43%, 93%);
-    --neutral-2: hsl(218, 22%, 67%);
+    --neutral-1: rgb(229, 239, 245);
+    --neutral-2: rgb(152, 166, 189);
 
     --font-stack: Karla;
 }
@@ -41,6 +41,20 @@ li {
 body {
     font-size: 16px;
     font-family: var(--font-stack);
+
+    background-color: var(--neutral-1);
+}
+
+#join-our-community {
+    background-color: white;
+}
+
+#monthly-subscription {
+    background: var(--primary-1);
+}
+
+#why-us {
+    background-color: rgba(42, 178, 175, 0.5);
 }
 
 /* Font styles */
