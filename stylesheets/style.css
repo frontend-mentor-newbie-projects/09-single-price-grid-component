@@ -127,6 +127,9 @@ h1, h2, p {
     /* Join Our Community styles */
 #join-our-community {
     grid-column: 1 / -1;
+
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
 }
 
     /* Monthly Subscription styles */
@@ -137,6 +140,9 @@ h1, h2, p {
     /* Why Us styles */
 #why-us {
     grid-column: 1 / -1;
+
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
 }
 
 /* Footer styles */
