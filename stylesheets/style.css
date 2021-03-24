@@ -38,7 +38,10 @@ li {
 }
 
 /* Base styles */
-/* -------------------- */
+body {
+    font-size: 16px;
+    font-family: var(--font-stack);
+}
 
 /* Font styles */
 /* -------------------- */
