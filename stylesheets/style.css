@@ -117,7 +117,27 @@ h1, h2, p {
 
 /* Mobile styles -- Starting point -- 320px | 375px */
 /* 12 col | 8 col | 4 col */
-/* -------------------- */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+    overflow: auto;
+}
+
+    /* Join Our Community styles */
+#join-our-community {
+    grid-column: 1 / -1;
+}
+
+    /* Monthly Subscription styles */
+#monthly-subscription {
+    grid-column: 1 / -1;
+}
+
+    /* Why Us styles */
+#why-us {
+    grid-column: 1 / -1;
+}
 
 /* Footer styles */
 .attribution {
