@@ -58,7 +58,50 @@ body {
 }
 
 /* Font styles */
-/* -------------------- */
+h1, h2, p {
+    font-size: 1rem;
+}
+
+    /* Join Our Community styles */
+#join-our-community h1 {
+    color: var(--primary-1);
+    font-weight: 700;
+}
+
+#join-our-community h2 {
+    color: var(--primary-2);
+    font-weight: 700;
+}
+
+#join-our-community p {
+    color: var(--neutral-2);
+}
+
+    /* Monthly subscription styles */
+#monthly-subscription {
+    color: white;
+}
+
+#monthly-subscription #rate {
+    color: rgba(229, 239, 245, 0.5);
+}
+
+#monthly-subscription button {
+    color: white;
+    font-weight: 700;
+
+    letter-spacing: 0.1rem;
+}
+
+    /* Why Us styles */
+#why-us h2 {
+    color: white;
+    font-weight: 700;
+}
+
+#why-us ul {
+    color: var(--neutral-1);
+}
 
 /*
     - Small mobile - 320px
