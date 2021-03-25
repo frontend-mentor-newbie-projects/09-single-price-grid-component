@@ -142,6 +142,11 @@ p, ul {
     overflow: auto;
 }
 
+#join-our-community,
+#monthly-subscription,
+#why-us {
+    padding: 1.5rem 1.5rem;
+}
     /* Join Our Community styles */
 #join-our-community {
     grid-column: 1 / -1;
