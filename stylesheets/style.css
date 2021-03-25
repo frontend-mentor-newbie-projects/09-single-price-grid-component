@@ -92,6 +92,10 @@ body {
     background-color: white;
 }
 
+#monthly-subscription button:focus {
+    outline: none;
+}
+
 #why-us {
     background-color: rgba(42, 178, 175, 0.5);
 }
