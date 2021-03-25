@@ -150,6 +150,14 @@ p, ul {
     border-top-right-radius: 0.5rem;
 }
 
+#join-our-community h1 {
+    font-size: 1.2rem;
+}
+
+#join-our-community h2 {
+    font-size: 0.9rem;
+}
+
     /* Monthly Subscription styles */
 #monthly-subscription {
     grid-column: 1 / -1;
