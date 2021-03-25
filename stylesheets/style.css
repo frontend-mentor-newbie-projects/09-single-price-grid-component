@@ -75,6 +75,11 @@ h1, h2, p {
     font-size: 1rem;
 }
 
+p, ul {
+    font-size: 0.8rem;
+    line-height: 1.5rem;
+}
+
     /* Join Our Community styles */
 #join-our-community h1 {
     color: var(--primary-1);
