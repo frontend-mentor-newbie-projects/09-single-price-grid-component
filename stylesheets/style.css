@@ -87,6 +87,11 @@ body {
         0  16px 16px rgba(0,0,0,0.05);
 }
 
+#monthly-subscription button:hover {
+    color: var(--primary-2);
+    background-color: white;
+}
+
 #why-us {
     background-color: rgba(42, 178, 175, 0.5);
 }
