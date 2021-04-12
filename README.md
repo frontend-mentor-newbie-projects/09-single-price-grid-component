@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Frontend Mentor Solution
-- [Live Site](https://likelytwitchdollop.github.io/single-price-grid-component/)
+- [Live Site](https://frontend-mentor-newbie-projects.github.io/09-single-price-grid-component/)
 
 ## Author
 
